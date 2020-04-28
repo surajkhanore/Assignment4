@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LineSketch</string>
+    <string name="cut">Cut</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="group">Group</string>
+    <string name="ungroup">Ungroup</string>
+</resources>
